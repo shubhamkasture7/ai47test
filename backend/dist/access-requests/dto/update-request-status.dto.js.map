@@ -1,0 +1,1 @@
+{"version":3,"file":"update-request-status.dto.js","sourceRoot":"","sources":["../../../src/access-requests/dto/update-request-status.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAAyC;AAEzC,MAAa,sBAAsB;IAIjC,MAAM,CAA2B;CAClC;AALD,wDAKC;AADC;IAHC,IAAA,wBAAM,EAAC,CAAC,UAAU,EAAE,UAAU,CAAC,EAAE;QAChC,OAAO,EAAE,gDAAgD;KAC1D,CAAC;;sDAC+B"}
